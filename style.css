@@ -236,6 +236,10 @@ main{
     border-radius: 10px;
     cursor: pointer;
 }
+.item-container button:hover{
+    background-color: rgb(116, 194, 116);
+    transition: .3s;
+}
 .items-container{
     width: 80%;
     margin: 50px 10%;
