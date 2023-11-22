@@ -13,6 +13,7 @@ const items = [
             stars: 4.5,
             count: 1400,
         },
+        quantity:10,
     },
     {
         id: '002',
@@ -28,6 +29,7 @@ const items = [
             stars: 4.3,
             count: 24,
         },
+        quantity:10,
     },
     {
         id: '003',
@@ -43,6 +45,7 @@ const items = [
             stars: 4.1,
             count: 249,
         },
+        quantity:10,
     },
     {
         id: '004',
@@ -58,6 +61,7 @@ const items = [
             stars: 5.0,
             count: 10,
         },
+        quantity:10,
     },
     {
         id: '005',
@@ -73,6 +77,7 @@ const items = [
             stars: 4.2,
             count: 3500,
         },
+        quantity:10,
     },
     {
         id: '006',
@@ -88,6 +93,7 @@ const items = [
             stars: 0.0,
             count: 0,
         },
+        quantity:10,
     },
     {
         id: '007',
@@ -101,6 +107,7 @@ const items = [
             stars: 4.2,
             count: 388,
         },
+        quantity:10,
     },
     {
         id: '008',
@@ -116,6 +123,7 @@ const items = [
             stars: 4.2,
             count: 5200,
         },
+        quantity:10,
     },
     {
         id: '009',
@@ -131,5 +139,6 @@ const items = [
             stars: 4.5,
             count: 1400,
         },
+        quantity:10,
     }
 ];
